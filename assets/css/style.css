@@ -1,0 +1,9 @@
+img{
+	display: block;
+	float: left;
+}
+p{
+	float: left;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
